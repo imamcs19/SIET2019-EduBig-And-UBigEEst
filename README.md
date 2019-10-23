@@ -7,6 +7,8 @@ Some Big Data tools packages built in UBig (EdUBig to Education and UBigEEst to 
 1. Ubuntu Desktop and Server (UBig1)
 2. Windows Desktop (UBig2)
 
+InitWebPyUBig101.7z and InitWebPyUBig101-pySpark.7z for Digital Talent Scholarship (DTS) 2019, Big Data Analytic, Batch I & II Filkom UB.
+
 Authors:
 1. Imam Cholissodin (imamcs@ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB), Corresponding Author ✔
 2. Ahmad Afif Supianto (afif.supianto@ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB)
