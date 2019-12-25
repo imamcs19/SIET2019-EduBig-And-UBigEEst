@@ -1,0 +1,22 @@
+{
+  "ignition": {
+    "config": {},
+    "timeouts": {},
+    "version": "2.1.0"
+  },
+  "networkd": {},
+  "passwd": {
+    "users": [
+      {
+        "groups": ["sudo"],
+		"name": "imamcs",
+		"passwordHash": "$1$rT9D9Nh1$06zXYmExTqmKUhXGvep3L1",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAhVxAIx49uVIGTRYTDlRUIRhnK9c4U7lJRm/yHuw/lWjtPZZij4XT3eaBNNbSDxboTou4GY/6PODoeJlZwJMirUL7zMkNrARuAAZe9cO7T7F5zsTd9QRK++WhbcPRTYT1rEeiHrPII05IUH7FqttqkAhwFgp6ITlCICvDgwKTChM3e8gPGWLiHHge9KgdeIlbiFDddvR8qvRd2O0skC295fl/VzaxwZAtzzY4gWLmzOSd41X59Qt3W97RBabK9g5LNrGsuY+fJ7m6CEPUpAw+i3uMzgJUL38vAKix6NgjW/lqK70OuRbC80K89jfXbFx953YTdw20ldkuIvrgB1cHUw== rsa-key-CoreOS"
+        ]
+      }
+    ]
+  },
+  "storage": {},
+  "systemd": {}
+}
